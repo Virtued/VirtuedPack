@@ -2,4 +2,4 @@
 Virtued Network's Minecraft Texture Pack
 
 ## LICENSE
-AGPLv3 - See LICENSE 
+GPLv3 - See LICENSE 
