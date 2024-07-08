@@ -2,4 +2,4 @@
 Virtued Network's Minecraft Texture Pack
 
 ## LICENSE
-GPLv3 - See LICENSE 
+ VirtuedPack © 2024 by caseyclosed is licensed under CC BY-NC-ND 4.0
